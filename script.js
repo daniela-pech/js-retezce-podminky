@@ -34,7 +34,6 @@ const domain = email.slice(atIndex);
 document.body.innerHTML += `
 <p> ${user} </p>
 <p> ${domain} </p>
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!§//KOUKNOUT SE NA SPRÁVNÉ ŘEŠENÍ!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 // cvičení - Registrace na očkování - Zkontrolujte, zda je uživatel starší 65 let a zda má silné heslo.
